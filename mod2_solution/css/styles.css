@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+h1{
+  color: black;
+  font-size: 175%;
+  text-align: center;
+}
+
+section {
+  border: 1px solid black;
+  height: 250px;
+  overflow: auto;
+}
