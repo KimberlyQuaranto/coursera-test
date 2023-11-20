@@ -12,15 +12,15 @@ div section {
 }
 
 #chicken{
-  background-color: orange;
+  background-color: #FFA500;
 }
 
 #beef{
-  background-color: darkred;
+  background-color: #8B0000;
 }
 
 #sushi{
-  background-color: green;
+  background-color: #008000;
 }
 
 #text > h3 {
